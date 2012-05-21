@@ -5,6 +5,7 @@ CONTENTS OF THIS FILE
 * Author
 * Introduction
 * Updates
+* Requirements
 * Licence
 
  ------
@@ -43,6 +44,12 @@ CONTENTS OF THIS FILE
 	Optimized to work faster
 	Documentation on the Help menu Item
 
+ ------------
+|REQUIREMENTS|
+ ------------
+   You must install the .NET 4 Framework from Microsoft -> http://www.microsoft.com/en-us/download/details.aspx?id=17718
+
+   If you want to enable the video player install VLC Media Player -> http://sourceforge.net/projects/vlc/files/2.0.1/win32/vlc-2.0.1-win32.exe/download?accel_key=60%3A1337614174%3Ahttp%253A//www.videolan.org/vlc/index.html%3Abf51544f%2426239a13851ce37e02641fa7868c5c02be3d3dbe&click_id=c4a98ef0-a359-11e1-afcf-00219b8a8942&source=accel
 
  -------
 |LICENCE|
