@@ -1,0 +1,52 @@
+CONTENTS OF THIS FILE
+---------------------
+* Name
+* Version
+* Author
+* Introduction
+* Updates
+* Licence
+
+ ------
+| NAME |
+ ------
+    G_View 2 (game viewer)
+ -------
+|VERSION|
+ -------
+    2.1a
+ ------
+|AUTHOR|
+ ------
+    Cathal McNally (mcnallycathal@yahoo.ie)
+ ------------
+|INTRODUCTION|
+ ------------
+   G_View 2
+   Basic Image and Xml parsing application for viewing Game Cover images and some basic game info 
+   You must manually create the xml files and download from the web the game covers
+   G_view(Game viewer) simply views the files
+
+   Makes use of own extensions
+   .gvi = .jpg
+   .gvx = .xml
+   simply renamed to prevent clashes with other xml and image files
+
+ -------
+|UPDATES|
+ -------
+   GView 2 introduces a new interface with a Menu, New buttons,Game List and screeshots pane
+   New Features 
+	A game list that lists all games in the root folder
+   	A Screenshot pane
+	A Video player for Trailers
+	Optimized to work faster
+	Documentation on the Help menu Item
+
+
+ -------
+|LICENCE|
+ -------
+   Released under the The MIT License.
+
+   http://www.opensource.org/licenses/mit-license.php
