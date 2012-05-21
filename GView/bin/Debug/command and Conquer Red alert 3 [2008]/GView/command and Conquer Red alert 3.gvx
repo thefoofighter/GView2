@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Game>
+        <name>Command and Conquer Red Alert 3</name>
+        <year>2008</year>
+	<developer>EA LA</developer>
+	<publisher>Electronic Arts</publisher>
+	<engine>SAGE</engine>
+	<genre>Real time strategy</genre>
+	<modes>Single player/Multiplayer</modes>
+	<personalRating>0</personalRating>
+	<thoughts>Havent played it yet :(</thoughts>
+</Game>

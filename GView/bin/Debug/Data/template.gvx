@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Game>
+        <name>Enter Name</name>
+        <year>Enter Year</year>
+	<developer>Enter Developer</developer>
+	<publisher>Enter Publisher</publisher>
+	<engine>Enter Engine</engine>
+	<genre>Enter Genre</genre>
+	<modes>Enter Mode</modes>
+	<personalRating>Enter Rating</personalRating>
+	<thoughts>Enter personal Note</thoughts>
+</Game>

@@ -1,0 +1,18 @@
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\bin\Debug\GView.exe
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\bin\Debug\GView.pdb
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\GView.Properties.Resources.resources
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\GView.exe
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\GView.pdb
+c:\users\cathal\documents\visual studio 2010\Projects\GView\GView\obj\x86\Debug\GView.G_View.resources
+C:\GitRepository\GView\GView\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GitRepository\GView\GView\obj\x86\Debug\Interop.AXVLC.dll
+C:\GitRepository\GView\GView\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\GitRepository\GView\GView\obj\x86\Debug\GView.csproj.ResolveComReference.cache
+C:\GitRepository\GView\GView\obj\x86\Debug\GView.AboutForm.resources
+C:\GitRepository\GView\GView\obj\x86\Debug\GView.MainForm.resources
+C:\GitRepository\GView\GView\obj\x86\Debug\GView.VideoForm.resources
+C:\GitRepository\GView\GView\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\GitRepository\GView\GView\obj\x86\Debug\GenerateResource.write.1.tlog

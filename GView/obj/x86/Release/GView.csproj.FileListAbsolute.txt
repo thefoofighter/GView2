@@ -1,0 +1,20 @@
+C:\GitRepository\GView\GView\obj\x86\Release\Interop.AXVLC.dll
+C:\GitRepository\GView\GView\obj\x86\Release\AxInterop.AXVLC.dll
+C:\GitRepository\GView\GView\obj\x86\Release\GView.csproj.ResolveComReference.cache
+C:\GitRepository\GView\GView\bin\Release\GView 2.exe.manifest
+C:\GitRepository\GView\GView\bin\Release\GView 2.application
+C:\GitRepository\GView\GView\bin\Release\GView 2.exe
+C:\GitRepository\GView\GView\bin\Release\GView 2.pdb
+C:\GitRepository\GView\GView\bin\Release\Interop.AXVLC.dll
+C:\GitRepository\GView\GView\bin\Release\AxInterop.AXVLC.dll
+C:\GitRepository\GView\GView\obj\x86\Release\ResolveAssemblyReference.cache
+C:\GitRepository\GView\GView\obj\x86\Release\GView.AboutForm.resources
+C:\GitRepository\GView\GView\obj\x86\Release\GView.MainForm.resources
+C:\GitRepository\GView\GView\obj\x86\Release\GView.VideoForm.resources
+C:\GitRepository\GView\GView\obj\x86\Release\GView.Properties.Resources.resources
+C:\GitRepository\GView\GView\obj\x86\Release\GenerateResource.read.1.tlog
+C:\GitRepository\GView\GView\obj\x86\Release\GenerateResource.write.1.tlog
+C:\GitRepository\GView\GView\obj\x86\Release\GView 2.exe.manifest
+C:\GitRepository\GView\GView\obj\x86\Release\GView 2.application
+C:\GitRepository\GView\GView\obj\x86\Release\GView 2.exe
+C:\GitRepository\GView\GView\obj\x86\Release\GView 2.pdb

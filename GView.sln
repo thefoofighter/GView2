@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GView", "GView\GView.csproj", "{15772D74-6B26-4E7B-A0D2-63D91AE36876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15772D74-6B26-4E7B-A0D2-63D91AE36876}.Debug|x86.ActiveCfg = Debug|x86
+		{15772D74-6B26-4E7B-A0D2-63D91AE36876}.Debug|x86.Build.0 = Debug|x86
+		{15772D74-6B26-4E7B-A0D2-63D91AE36876}.Release|x86.ActiveCfg = Release|x86
+		{15772D74-6B26-4E7B-A0D2-63D91AE36876}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
